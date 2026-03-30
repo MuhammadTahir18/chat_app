@@ -2,7 +2,7 @@
 
 A real-time chat application built using Flutter, Dart, and Firebase, enabling secure and seamless communication between users.
 
-#  Features
+  Features
 🔐 User Authentication (Firebase Auth)
 💬 Real-time Messaging (Cloud Firestore)
 👥 One-to-One Chat (End-to-End User Communication)
@@ -11,7 +11,7 @@ A real-time chat application built using Flutter, Dart, and Firebase, enabling s
 🔄 Live Message Updates
 🟢 Online Chat Experience
 
-#  Tech Stack
+ Tech Stack
 Flutter – UI Framework
 Dart – Programming Language
 Firebase Authentication – User Login & Signup
