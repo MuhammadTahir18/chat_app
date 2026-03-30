@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "88616550003",
+    "firebase_url": "https://chatapplication-6a072-default-rtdb.firebaseio.com",
+    "project_id": "chatapplication-6a072",
+    "storage_bucket": "chatapplication-6a072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88616550003:android:f2327342ffe7ce1511f406",
+        "android_client_info": {
+          "package_name": "com.adnan.trainsmartai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88616550003-s5uvvi2vhd6mq5ehpcloemrhpkd8d5op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adnan.trainsmartai",
+            "certificate_hash": "ba3b1c0e3b200a6de223bf2d6ad18a19fee5e905"
+          }
+        },
+        {
+          "client_id": "88616550003-01hlsao31fcbp23rnjhaigc6vc1p07qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0TnqdRqYioFMJKCyKHRQ9bwlarU1kBtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88616550003-01hlsao31fcbp23rnjhaigc6vc1p07qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88616550003-7hl3kagpll1unc43tdkb2tva6krg38jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tahir.chatAppFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88616550003:android:eb6923f032330c9c11f406",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88616550003-01hlsao31fcbp23rnjhaigc6vc1p07qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0TnqdRqYioFMJKCyKHRQ9bwlarU1kBtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88616550003-01hlsao31fcbp23rnjhaigc6vc1p07qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88616550003-7hl3kagpll1unc43tdkb2tva6krg38jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tahir.chatAppFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88616550003:android:ffd559346cb59fc011f406",
+        "android_client_info": {
+          "package_name": "com.example.chatmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88616550003-87t6fjb9aub02tqrca1t363kpd1ok1aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatmessenger",
+            "certificate_hash": "3f0ca0261ac7fbc2dfe1c0c284e8591160b8caf8"
+          }
+        },
+        {
+          "client_id": "88616550003-01hlsao31fcbp23rnjhaigc6vc1p07qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0TnqdRqYioFMJKCyKHRQ9bwlarU1kBtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88616550003-01hlsao31fcbp23rnjhaigc6vc1p07qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88616550003-7hl3kagpll1unc43tdkb2tva6krg38jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tahir.chatAppFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88616550003:android:c71f0d9cc85dfefe11f406",
+        "android_client_info": {
+          "package_name": "com.tahir.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88616550003-01hlsao31fcbp23rnjhaigc6vc1p07qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0TnqdRqYioFMJKCyKHRQ9bwlarU1kBtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88616550003-01hlsao31fcbp23rnjhaigc6vc1p07qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88616550003-7hl3kagpll1unc43tdkb2tva6krg38jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tahir.chatAppFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
